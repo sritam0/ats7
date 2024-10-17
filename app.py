@@ -4,7 +4,7 @@ import requests
 import streamlit as st
 from dotenv import load_dotenv
 import PyPDF2
-import fitz
+
 
 
 # Load environment variables
